@@ -35,8 +35,8 @@ A note management application built with **Next.js, TypeScript, React Query, and
 
 ### 📫 How to reach me
 
-[LinkedIn](https://www.linkedin.com/in/yuliana-snahustenko-0339b0389?utm_source=share_via&utm_content=profile&utm_medium=member_android) |[Telegram](https://t.me/Akanekii) |
-[Email](carasyulia@gmail.com) |
+[LinkedIn](https://www.linkedin.com/in/yuliana-snahustenko-0339b0389?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Telegram](https://t.me/Akanekii) |
+[Email](carasyulia@gmail.com) 
 
 ---
 
