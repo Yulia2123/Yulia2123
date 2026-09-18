@@ -19,14 +19,14 @@ Git | GitHub | React Query | Vite | Webpack | Vercel
 
 ### 💻 Featured Projects
 
-🔹 **[Prime Force](https://github.com/Yulia2123/prime-force)**
+🔹 **[Paw Hut](https://github.com/Yulia2123/prime-force)**
 Team project focused on building a modern web application. Worked as a **Team Lead**, coordinating the team, distributing tasks, and contributing to the development of the project.
 
-🔹 **[IT Forge](https://github.com/Yulia2123/it-forge)**
+🔹 **[Yoga Bloom](https://github.com/Yulia2123/it-forge)**
 Collaborative educational project developed as part of a team. Focused on frontend development, responsive design, and working with modern web technologies.
 
-🔹 **NoteHub Next.js**
-A note management application built with **Next.js, TypeScript, React Query, and REST API**. Implemented features such as note creation, editing, searching, filtering, pagination, and modal routing.
+🔹 **[nmt.in.ua](https://github.com/tony-kobs/nmt.in.ua)**
+A web platform for NMT exam preparation, built with Next.js, TypeScript, and MySQL. The project includes user authentication, topic-based tests, an NMT simulator, session history, progress results, and personalized study recommendations..
 
 ### 🗣️ Languages
 
